@@ -24,6 +24,11 @@
 ---
 ### Golang
 
+[A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
+> An engaging read for a Golang beginner or for someone just beginning programming.
+
+[Awesome Go](https://github.com/avelino/awesome-go)
+> A curated list of awesome Go frameworks, libraries and software.
 
 ---
 ### Blogs
