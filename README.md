@@ -10,6 +10,10 @@
 
 > Best beginners guide to functional programming in JS. Learn this if you want to be avoid JS state problems.
 
+[Observable](https://beta.observablehq.com/)
+
+> Online JS editor and visualizer that uses Rx Observables.
+
 ---
 ### Git
 
@@ -27,8 +31,11 @@
 [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
 > An engaging read for a Golang beginner or for someone just beginning programming.
 
-[Awesome Go](https://github.com/avelino/awesome-go)
+[Awesome Go Git](https://github.com/avelino/awesome-go)
 > A curated list of awesome Go frameworks, libraries and software.
+
+[Awesome Go Website](https://awesome-go.com/)
+> A curated list of awesome #Golang frameworks, libraries and software
 
 ---
 ### Blogs
