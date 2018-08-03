@@ -10,8 +10,14 @@
 
 > Best beginners guide to functional programming in JS. Learn this if you want to be avoid JS state problems.
 
+<<<<<<< HEAD
 [Popmotion](https://popmotion.io/pure/)
 > A functional Animation Library
+=======
+[Observable](https://beta.observablehq.com/)
+
+> Online JS editor and visualizer that uses Rx Observables.
+>>>>>>> 0c266ff6811184a2dadc3c19f921bb915dcf4a38
 
 ---
 ### Git
@@ -30,14 +36,35 @@
 [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
 > An engaging read for a Golang beginner or for someone just beginning programming.
 
-[Awesome Go](https://github.com/avelino/awesome-go)
+[Awesome Go Website](https://awesome-go.com/)
+> A curated list of awesome #Golang frameworks, libraries and software.
+
+[Awesome Go - GitHub](https://github.com/avelino/awesome-go)
 > A curated list of awesome Go frameworks, libraries and software.
 
 [Go Databse Organization](https://www.alexedwards.net/blog/organising-database-access)
 > A great article on how to inject a global DB into various model.
+
+[Is Go Object Oriented? - Article](https://flaviocopes.com/golang-is-go-object-oriented/)
+> A great article about the object oriented nature of Go. This article addresses the elements of OOP in Go that were included and excluded.
+
+[Go By Example](https://gobyexample.com/)
+> Go: the basics. A list of simple code examples in a great format.
+
+[Golangbot](https://golangbot.com/)
+> A list of simmple to advanced Go tutorials
 
 ---
 ### Blogs
 
 [Code as Craft](https://codeascraft.com)
 > Etsy's blog - filled with interesting articles.
+---
+## Concepts
+
+[FunFunFunction - Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+> The most clear description of the benifits of composition over inheritance I have ever seen.
+
+
+[Reactive Extentions](http://reactivex.io/)
+> A library that helps midigate state problems.
