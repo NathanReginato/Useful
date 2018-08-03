@@ -10,6 +10,9 @@
 
 > Best beginners guide to functional programming in JS. Learn this if you want to be avoid JS state problems.
 
+[Popmotion](https://popmotion.io/pure/)
+> A functional Animation Library
+
 ---
 ### Git
 
@@ -29,6 +32,9 @@
 
 [Awesome Go](https://github.com/avelino/awesome-go)
 > A curated list of awesome Go frameworks, libraries and software.
+
+[Go Databse Organization](https://www.alexedwards.net/blog/organising-database-access)
+> A great article on how to inject a global DB into various model.
 
 ---
 ### Blogs
