@@ -10,14 +10,12 @@
 
 > Best beginners guide to functional programming in JS. Learn this if you want to be avoid JS state problems.
 
-<<<<<<< HEAD
 [Popmotion](https://popmotion.io/pure/)
 > A functional Animation Library
-=======
+
 [Observable](https://beta.observablehq.com/)
 
 > Online JS editor and visualizer that uses Rx Observables.
->>>>>>> 0c266ff6811184a2dadc3c19f921bb915dcf4a38
 
 ---
 ### Git
@@ -53,6 +51,9 @@
 
 [Golangbot](https://golangbot.com/)
 > A list of simmple to advanced Go tutorials
+
+[Delve](https://github.com/derekparker/delve)
+> A Go Debugger. Mailgun uses this and has deprecated its own debugger in favor of delve. The golang docs also have their own debugger but admit that delve is better.
 
 ---
 ### Blogs
